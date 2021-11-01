@@ -17,8 +17,8 @@ Interface like
  
 
 How it works : 
-# Player 1: selects a number then system displays the selection.
-# Player 2: selects a number then system displays the selection.
+Player 1: selects a number then system displays the selection.
+Player 2: selects a number then system displays the selection.
 This process continues till one of the player selects three numbers in a row or column or diagonally.
 Game can be won by a player of be a Draw.
 
